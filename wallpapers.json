@@ -1,24 +1,34 @@
 {
   "walls": [
     {
-      "author": "Someone Designer",
-      "url": "https://s-media-cache-ak0.pinimg.com/736x/25/99/06/259906d517d6440a60d0e426ced864f2.jpg",
+      "author": "The Devicers",
+      "url": "http://i.imgur.com/YSQkeeR.jpg",
       "name": "Wallpaper 1"
     },
     {
-      "author": "Someone Designer",
-      "url": "http://pic.youmobile.org/imgcdn/bkg_08_august.jpg",
+      "author": "The Devicers",
+      "url": "http://i.imgur.com/oNrHSOk.jpg",
       "name": "Wallpaper 2"
     },
     {
-      "author": "Someone Designer",
-      "url": "http://i.imgur.com/aZlqiAT.png",
+      "author": "The Devicers",
+      "url": "http://i.imgur.com/G5A1Bjt.jpg",
       "name": "Wallpaper 3"
     },
     {
-      "author": "Someone Designer",
-      "url": "http://www.lirent.net/wp-content/uploads/2014/10/Android-Lollipop-wallpapers-p-800x500.png",
+      "author": "The Devicers",
+      "url": "http://i.imgur.com/Jtb5Elk.jpg",
       "name": "Wallpaper 4"
+     },
+    {
+      "author": "The Devicers",
+      "url": "http://i.imgur.com/mvNYy72.jpg",
+      "name": "Wallpaper 5"
+    },
+    {
+      "author": "The Devicers",
+      "url": "http://i.imgur.com/0p2qcr4.jpg",
+      "name": "Wallpaper 6"
     }
   ]
 }
